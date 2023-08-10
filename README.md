@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/swapn_mohite" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="swapn_mohite" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/swapniljmohite" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swapniljmohite" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/swapnmohite" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swapniljmohite" height="30" width="40" /></a>
 <a href="https://instagram.com/swapn_mohite" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="swapn_mohite" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/swapn_mohite" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="swapn_mohite" height="30" width="40" /></a>
 </p>
