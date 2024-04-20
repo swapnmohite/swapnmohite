@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="center">Hi 👋! My name is Swapnil Mohite and I'm a Java Full Stack Developer, from India</h2>
+<h2 align="center">Hi 👋! I'm Swapnil Mohite , a Java Full Stack Developer from India</h2>
 
 ###
 
@@ -96,7 +96,5 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/swapnmohite/swapnmohite/output/snake.svg" alt="Snake animation" />
 
 ###
