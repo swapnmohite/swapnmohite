@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="center">Hi 👋! I'm Swapnil Mohite , a Java Full Stack Developer from India</h2>
+<h2 align="center">Hi👋 I'm Swapnil Mohite, A Java Full Stack Developer from India</h2>
 
 ###
 
